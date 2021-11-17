@@ -59,7 +59,7 @@ def load_data(city, month, day):
     Returns:
         df - Pandas DataFrame containing city data filtered by month and day
     """
-    print("\nLoading data")
+    print("\nLoading data please waits")
     df = pd.read_csv(CITY_DATA[city.lower()])
     df['Start Time'] = pd.to_datetime(df['Start Time'])
     # adding two columns month and day of the week
