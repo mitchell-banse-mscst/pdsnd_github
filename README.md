@@ -6,7 +6,7 @@
 ### Project Title
 Udacity Bikeshare Github project
 
-### Description
+### Description of project
 Python data science project bikeshare
 
 ### Files used
