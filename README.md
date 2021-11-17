@@ -7,7 +7,7 @@
 Udacity Bikeshare Github project
 
 ### Description
-Python data project bikeshare
+Python data science project bikeshare
 
 ### Files used
 bikeshare.py
