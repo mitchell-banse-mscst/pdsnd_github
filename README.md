@@ -13,5 +13,5 @@ Python data project bikeshare
 bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Git commands documentation was very useful
 
